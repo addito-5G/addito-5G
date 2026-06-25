@@ -25,6 +25,7 @@ Here I demonstrate my skills in product strategy, market research, and product a
 -   **[NRP Market Intelligence](https://github.com/addito-5G/nrp-market-intelligence)** — Market research on B2B SaaS analytics for marketplaces. Maturity assessment, tech trends (NLP, AI), and new business models (Outcome-based, White-label).
 -   **[iUnitRadar](https://github.com/addito-5G/iUnitRadar)** — Unit economics calculator for B2B SaaS. Demonstrates metrics skills: CAC, LTV, Payback Period, Gross Margin.
 -   **[Dashboard-as-product](https://github.com/addito-5G/Dashbord-as-product)** — Framework for building dashboards as a product. From discovery and metric selection to UX and implementation.
+-   **[Product Analytics Case Studies](https://github.com/addito-5G/product-analytics-cases)** — Collection of data-driven product projects. Marketing efficiency (ROI, LTV/CAC, budget reallocation), user behavior analysis (PySpark, ClickHouse), A/B testing framework. Demonstrates end-to-end analytics: from hypothesis to business recommendations.
 
 ##  Public Expertise & Content
 Sharing knowledge on product analytics and unit economics for e-commerce:
