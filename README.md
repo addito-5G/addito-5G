@@ -28,6 +28,3 @@ E-commerce • B2B SaaS • Data-Driven Analytics
 - **Telegram:** [@addito](https://t.me/addito)
 - **Email:** addito1@yandex.ru
 - **Резюме:** [Ссылка на hh.ru](https://hh.ru/resume/62d4f3f7ff10b23f6f0039ed1f7a414a4a7a49)
-
----
-*Этот профиль является нейтральным подтверждением моих навыков Product Management и аналитики.*
