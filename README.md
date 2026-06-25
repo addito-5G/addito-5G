@@ -23,7 +23,7 @@ Here I demonstrate my skills in product strategy, market research, and product a
 
 -   **[Humble Product Strategy](https://github.com/addito-5G/humble-product-strategy)** — Product strategy case study for No-code SaaS. P&L analysis, transition from loss to profit (+130M RUB), competitive intelligence, and ICE hypothesis prioritization.
 -   **[NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy)** — Market research on B2B SaaS analytics for marketplaces. Maturity assessment, tech trends (NLP, AI), and new business models (Outcome-based, White-label).
--   **[iUnitRadar](https://github.com/addito-5G/iUnitRadar)** — Unit economics calculator for B2B SaaS. Demonstrates metrics skills: CAC, LTV, Payback Period, Gross Margin.
+-   **[iUnitRadar](https://github.com/addito-5G/iUnitRadar_v1)** — Unit economics calculator for B2B SaaS. Demonstrates metrics skills: CAC, LTV, Payback Period, Gross Margin.
 -   **[Dashboard-as-product](https://github.com/addito-5G/Dashbord-as-product)** — Framework for building dashboards as a product. From discovery and metric selection to UX and implementation.
 -   **[Product Analytics Case Studies](https://github.com/addito-5G/product-analytics-cases)** — Collection of data-driven product projects. Marketing efficiency (ROI, LTV/CAC, budget reallocation), user behavior analysis (PySpark, ClickHouse), A/B testing framework. Demonstrates end-to-end analytics: from hypothesis to business recommendations.
 
