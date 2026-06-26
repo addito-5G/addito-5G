@@ -18,7 +18,7 @@ I build products at the intersection of business and data: from launching B2B Sa
 | **Product** | CustDev, JTBD, Hypothesis Testing, Product Vision & Strategy, Roadmap, Canvas, RICE/ICE scoring, SQL, Python (pandas), DataLens, MPStats |
 | **Tools** | Яндекс.Трекер, Bitrix24, Miro, Figma, PySpark (ETL basics), Apache Airflow (orchestration concepts), ClickHouse |
 
-## 📂 Featured Projects
+## 📂 Projects
 Here I demonstrate my skills in product strategy, market research, and product analytics:
 
 -   **[Humble Product Strategy](https://github.com/addito-5G/humble-product-strategy)** — Product strategy case study for No-code SaaS. P&L analysis, transition from loss to profit (+130M RUB), competitive intelligence, and ICE hypothesis prioritization.
@@ -31,7 +31,7 @@ Here I demonstrate my skills in product strategy, market research, and product a
 Sharing knowledge on product analytics and unit economics for e-commerce:
 
 -   **[Webinar: P&L Report for Wildberries Sellers](https://www.youtube.com/watch?v=6LZayqn9l_s)** *(1h 14m)*  
-    Breakdown of automating management reporting and understanding real SKU profitability. Demonstrates DataLens + API approach: from data collection to interpreting unallocated expenses and plan-fact planning. Shows my ability to translate complex financial logic into clear business insights.
+    Breakdown of automating management reporting and understanding real SKU profitability. Demonstrates NRP + API approach: from data collection to interpreting unallocated expenses and plan-fact planning. Shows my ability to translate complex financial logic into clear business insights.
 
 ## 📫 Contacts
 -   **Telegram:** [@addito](https://t.me/addito)
