@@ -59,7 +59,7 @@ I deliver measurable business results through systematic product management:
 | Category | Tools & Skills |
 | :--- | :--- |
 | **Metrics** | Unit Economics, LTV/CAC, ARPU/ARPPU, Gross Margin, NSM, Retention & Churn Rate, MRR/newMRR, P&L Management, ROMI, Conversion Rate |
-| **Product** | CustDev, JTBD, Hypothesis Testing, Product Vision & Strategy, Roadmap, Canvas, RICE/ICE scoring, SQL, Python (pandas), DataLens, MPStats |
+| **Product** | CustDev, JTBD, Hypothesis Testing, Product Vision & Strategy, Roadmap, Canvas, RICE/ICE scoring, SQL, Python (Pandas, Matplotlib, Seaborn), DataLens, MPStats |
 | **Tools** | Яндекс.Трекер, Bitrix24, Miro, Figma, PySpark (ETL basics), Apache Airflow (orchestration concepts), ClickHouse |
 
 ## 📂 Projects
