@@ -53,7 +53,6 @@ I deliver measurable business results through systematic product management:
 | Launched NRP from scratch | **43% penetration** in existing client base within 8 months |
 | Increased e-commerce project margins | **+32%** through automation, pricing optimization, ad budget efficiency, SEO |
 | Grew channel revenue | **4x** within 6+ months (YoY growth confirmed by Q4) |
-| Transitioned Humble to profitability | **+130M RUB profit** while maintaining team size and growing revenue by 40% |
 
 ## 🛠 Tech Stack & Skills
 | Category | Tools & Skills |
