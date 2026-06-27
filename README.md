@@ -1,77 +1,75 @@
 # Hi, I'm Andrey Nakimov
 
 **Product Manager · Growth & Analytics**  
-Marketplace Analytics • B2B SaaS • Financial Reporting for MP Sellers
+Marketplace Analytics • B2B SaaS • Financial Reporting for Sellers
 
-> Built **NRP** — financial analytics for marketplace sellers: **43% penetration**, **450+ users**, **42B+ ₽/month** GMV under management.
+> Built **NRP** at Indeepa — financial analytics for sellers on Ozon, Wildberries, and Yandex Market: **43% penetration**, **450+ users**, **42B+ RUB/month** in seller GMV under management.
 
-*Продуктовый менеджер в Indeepa: запуск и развитие NRP — финансовая аналитика для селлеров Ozon, Wildberries, Яндекс.Маркет.*
-
-13+ years in e-commerce and marketplaces → product management at Indeepa → data-driven growth and product discovery.
+Product manager with **13+ years** in Russian e-commerce and marketplaces. I moved from hands-on marketplace operations into product leadership at Indeepa, where I focus on data-driven growth and product discovery.
 
 ## How I Create Value
 
 ### Product Launch: NRP
 
-For **NRP** (Niche Reporting Platform — cross-marketplace P&L, plan-fact, and unit economics for sellers), I launched the product from scratch inside the Indeepa ecosystem.
+For **NRP** (Niche Reporting Platform), I launched a cross-marketplace financial analytics product from scratch inside the Indeepa ecosystem — P&L, plan-vs-actual reporting, and SKU-level unit economics for marketplace sellers.
 
-- Delivered MVP in **4 months**, then launch and monetization
-- **43% penetration** across the Indeepa client base within **8 months** (**450+ users**)
-- **42B+ ₽/month** in seller GMV under product management
-- Built the full product cycle: CustDev → RICE prioritization → roadmap defense → delivery → impact measurement
-- Shipped core modules: cross-P&L, plan-fact, unit economics per SKU, "Pulse" monitoring, **Indeepa Index** (assortment ranking beyond classic ABC)
+- Shipped MVP in **4 months**, then launched and monetized the product
+- Reached **43% penetration** across Indeepa's client base within **8 months** (**450+ users**)
+- **42B+ RUB/month** in seller GMV managed through the product
+- Ran the full product loop: customer development → RICE prioritization → stakeholder alignment → delivery → impact measurement
+- Delivered core modules: cross-marketplace P&L, plan-vs-actual analysis, SKU unit economics, real-time KPI monitoring ("Pulse"), and the **Indeepa Index** (assortment scoring beyond classic ABC analysis)
 
 ### Market Intelligence: NLP Layer for NRP
 
-Separately, I ran discovery research to evolve NRP beyond dashboards — toward an **NLP layer** that gives sellers answers, not reports.
+I also led discovery research on how to evolve NRP beyond dashboards — toward an **NLP layer** that gives sellers answers instead of static reports.
 
-- Mapped market shift from hypergrowth (+164% YoY) to early maturity (+15.5% YoY); MPStats ~50% share
-- Defined differentiation vs MPStats: P&L analytics + NLP (Copilot, Anomaly Feed, Daily Brief)
-- Sized TAM/SAM/SOM and modeled outcome-based pricing, white-label, and API
-- Identified an **18–36 month** window before Big Tech (YandexGPT + DataLens)
+- Mapped the market shift from hypergrowth (+164% YoY) to early maturity (+15.5% YoY); MPStats holds ~50% share
+- Defined positioning vs. MPStats: P&L analytics plus NLP (Copilot, Anomaly Feed, Daily Brief)
+- Sized TAM/SAM/SOM and modeled outcome-based pricing, white-label, and API monetization
+- Identified an **18–36 month** window before large platforms (Yandex DataLens + YandexGPT) enter the vertical
 
-📎 [NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy) — discovery case for NLP-layer strategy, positioning, and business model
+[NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy) — discovery case for NLP-layer strategy, positioning, and business model
 
 ### Data-Driven Decision Making
 
-I work hands-on with **SQL** and **Python (pandas)**, build dashboards in **DataLens**, and prioritize via **ICE/RICE**.
+I work hands-on with **SQL** and **Python (pandas)**, build dashboards in **Yandex DataLens**, and prioritize work through **ICE/RICE**.
 
-- **4–5 hypotheses/month** — synthetic tests for speed, user tests for depth
-- Unit economics validation before engineering commitment
-- Backlog in Yandex Tracker: goals → milestones → stories → tasks
-- Led a product team (PM + 3 analysts) in a matrix structure; interim head of commercial (sales + marketing)
+- Test **4–5 hypotheses per month** — synthetic tests for speed, user research for depth
+- Validate unit economics before committing engineering capacity
+- Manage backlog in Yandex Tracker: goals → milestones → stories → tasks
+- Led a product team (PM + 3 analysts) in a matrix org; served as interim commercial lead (sales + marketing)
 
-📎 [Product Analytics Cases](https://github.com/addito-5G/product-analytics-cases) · [iUnitRadar](https://github.com/addito-5G/iUnitRadar_v1) · [Dashboard-as-Product](https://github.com/addito-5G/Dashbord-as-product)
+[Product Analytics Cases](https://github.com/addito-5G/product-analytics-cases) · [iUnitRadar](https://github.com/addito-5G/iUnitRadar_v1) · [Dashboard-as-Product](https://github.com/addito-5G/Dashbord-as-product)
 
 ### E-commerce & Operations Background
 
-Before product management — hands-on marketplace and retail operations:
+Before product management, I ran marketplace and retail operations in Russia:
 
-- **+32%** project margins through pricing models, ad automation, and SEO (Plutos)
-- **4×** online channel revenue in 6+ months; launched on WB, Ozon, Yandex Market (Koreal)
-- **+15%** quarterly sales, **−20%** order processing time via CRM–1C integration (BEST-magazin)
+- **+32%** project margins through pricing models, ad automation, and SEO (Plutos, toys on marketplaces)
+- **4×** online channel revenue in 6+ months; launched sales on Wildberries, Ozon, and Yandex Market (Koreal)
+- **+15%** quarterly sales and **−20%** order processing time via Bitrix24 CRM ↔ 1C ERP integration (BEST-magazin)
 
 ## Tech Stack & Skills
 
 | Category | Tools & Skills |
 | --- | --- |
-| **Metrics** | Unit Economics, LTV/CAC, ARPU, Gross Margin, NSM, Retention & Churn, MRR, P&L, ROMI, Conversion |
-| **Product** | CustDev, JTBD, Hypothesis Testing, Vision & Roadmap, RICE/ICE, SQL, Python (Pandas, Matplotlib, Seaborn), DataLens |
+| **Metrics** | Unit economics, LTV/CAC, ARPU, gross margin, NSM, retention & churn, MRR, P&L, ROMI, conversion |
+| **Product** | Customer development, JTBD, hypothesis testing, vision & roadmap, RICE/ICE, SQL, Python (Pandas, Matplotlib, Seaborn), DataLens |
 | **Tools** | Yandex Tracker, Bitrix24, Miro, Figma, MPStats |
 | **Data (working knowledge)** | ClickHouse, PySpark, Airflow |
 
 ## Projects
 
-- **[NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy)** — discovery research for evolving NRP with an NLP layer: market maturity, MPStats vs NRP positioning, TAM/SAM/SOM, outcome-based & white-label models
+- **[NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy)** — discovery research for evolving NRP with an NLP layer: market maturity, MPStats vs. NRP positioning, TAM/SAM/SOM, outcome-based and white-label models
 - **[Product Analytics Cases](https://github.com/addito-5G/product-analytics-cases)** — ROI/LTV-CAC, user behavior (PySpark, ClickHouse), A/B testing
 - **[iUnitRadar](https://github.com/addito-5G/iUnitRadar_v1)** — B2B SaaS unit economics calculator (CAC, LTV, payback, margin)
-- **[Dashboard-as-Product](https://github.com/addito-5G/Dashbord-as-product)** — framework: discovery → metrics → UX → delivery
+- **[Dashboard-as-Product](https://github.com/addito-5G/Dashbord-as-product)** — framework from discovery and metric selection to UX and delivery
 - **[Humble Product Strategy](https://github.com/addito-5G/humble-product-strategy)** — *case study*: PLG turnaround for a no-code SaaS (P&L, ICE prioritization, unit economics)
 
 ## Public Expertise
 
-- **[Webinar: P&L Report for Wildberries Sellers](https://www.youtube.com/watch?v=6LZayqn9l_s)** *(1h 14m)* — SKU-level profitability, API-driven reporting, plan-fact analysis
+- **[Webinar: P&L Reporting for Wildberries Sellers](https://www.youtube.com/watch?v=6LZayqn9l_s)** *(1h 14m, Russian)* — SKU-level profitability, API-driven reporting, plan-vs-actual analysis
 
-## Contacts
+## Contact
 
-**Telegram:** [@addito](https://t.me/addito) · **Email:** [addito1@yandex.ru](mailto:addito1@yandex.ru) · **Resume:** [hh.ru](https://hh.ru/resume/62d4f3f7ff10b23f6f0039ed1f7a414a4a7a49)
+**Telegram:** [@addito](https://t.me/addito) · **Email:** [addito1@yandex.ru](mailto:addito1@yandex.ru) · **Resume:** [hh.ru](https://hh.ru/resume/62d4f3f7ff10b23f6f0039ed1f7a414a4a7a49) *(Russian job platform)*
