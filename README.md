@@ -1,7 +1,9 @@
-# Привет, меня зовут Андрей
+# Привет, меня зовут Андрей Накимов
 
 **Product Manager** · B2B SaaS · маркетплейсы · финансовая аналитика  
-**Статус:** открыт к предложениям
+**Статус:** открыт к предложениям и новым знакомствам
+
+> Рад, что заглянули. Ниже — кейсы, pet-проекты и контакты. Если что-то откликается — пишите, буду рад пообщаться.
 
 > **0→1 в Indeepa:** вывел **NRP** до **43% adoption** (**450+ пользователей**, **42+ млрд ₽/мес** GMV селлеров) — кросс-маркетплейсную финансовую аналитику для Ozon, Wildberries и Яндекс Маркета.
 
@@ -66,6 +68,7 @@
 Осваиваю AI-product на практике — от стратегии NLP в NRP до working prototype.
 
 - Локальный inference: **Ollama**, prompt design, agent orchestration
+- → [Job Scout](https://github.com/addito-5G/job-scout) — ассистент в поиске работы: hh + Habr + Geekjob, AI-матч с резюме, аналитика рынка
 - → [Recipe Multi-Agent](https://github.com/addito-5G/multi-agent-demo) — 5 агентов, RU in → recipe out
 
 ---
@@ -98,6 +101,7 @@
 
 | Проект | Суть | Что доказывает |
 | :--- | :--- | :--- |
+| **[Job Scout](https://github.com/addito-5G/job-scout)** | Ассистент по поиску работы | Product thinking на своей боли: scrape, LLM router, Streamlit, market analytics |
 | **[Recipe Multi-Agent](https://github.com/addito-5G/multi-agent-demo)** | AI-рецепты на Ollama | Agent orchestration, NLP UX, local LLM |
 | **[NRP Market Intelligence](https://github.com/addito-5G/marketplace-analytics-strategy)** | Стратегия и discovery NLP-слоя | Market analysis, TAM/SAM/SOM, позиционирование |
 | **[Humble Product Strategy](https://github.com/addito-5G/humble-product-strategy)** | PLG turnaround, P&L, ICE | Unit economics, разворот стратегии, финмодель |
