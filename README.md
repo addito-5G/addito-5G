@@ -121,4 +121,4 @@
 
 ## Контакты
 
-**Telegram:** [@addito](https://t.me/addito) · **Email:** [addito1@yandex.ru](mailto:addito1@yandex.ru) · **Резюме:** [hh.ru](https://hh.ru/resume/62d4f3f7ff10b23f6f0039ed1f7a414a4a7a49)
+**Telegram:** [@addito](https://t.me/addito) · **Email:** [addito1@yandex.ru](mailto:addito1@yandex.ru) · **Резюме:** [Linkedin](www.linkedin.com/in/addito)
